@@ -17,14 +17,13 @@ markdown    : kramdown
 highlighter : rouge
 
 # SEO settings
-title: dotX
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
+title: Ayla De Brucker
+description: "Ayla De Brucker"
+keywords: ""
 
 # Site settings
-url: https://mwanji.github.io/ayla.debrucker.com
-baseurl: "/ayla.debrucker.com"
-# baseurl: ""
+url: http://ayla.debrucker.com
+baseurl: ""
 
 # Author settings
 author:
@@ -33,11 +32,11 @@ author:
   bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
   thumb     : /images/author.jpg
   email     : ayla_db@hotmail.com
-  url       : http://nandomoreira.me
-  github    : http://github.com/nandomoreirame
-  twitter   : http://twitter.com/nandomoreirame
-  facebook  : http://facebook.com/fernando.dev
-  linkedin  : http://linkedin.com/in/nandomoreirame
+  url       : http://ayla.debrucker.com
+#  github    : http://github.com/nandomoreirame
+#  twitter   : http://twitter.com/nandomoreirame
+#  facebook  : http://facebook.com/fernando.dev
+#  linkedin  : http://linkedin.com/in/nandomoreirame
 
 # google_analytics: UA-52446115-1
 repo: http://github.com/mwanji/ayla.debrucker.com
